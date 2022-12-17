@@ -1,15 +1,17 @@
-function miniMaxSum(arr) {
-    const valueMin = Math.min(...arr);
-    const valueMax = Math.max(...arr);
-    const total = sumNumbers(arr);
-    console.log(valueMin, valueMax, total);
-    console.log(sumMin(total, valueMin), sumMin(total, valueMax));
-};
+function sockMerchant(n, ar = []) {
+    
+    let pares = 0;
 
-const sumNumbers = arr => arr.reduce((acc, currentValue) => acc + currentValue);
+    for (let i = 0; i < n; i++) {
+        for (let c = 1; c < ar.length; c++) {
+            if (i !== c && ar[i] === ar[c] && ar[i] !== undefined) {
+                pares++;
+                delete ar[i];
+                delete ar[c];
+            }
+        }
+    }
+    console.log(pares);
+}
 
-const sumMin = (total, valueMin) => total - valueMin;
-
-const sumMax = (total, numberMax) => total - numberMax;
-
-miniMaxSum([1,2, 3]);
+sockMerchant(13, [1, 2, 3, 4, 5, 6, 7, 1, 1, 2, 3, 3, 3]);
