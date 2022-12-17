@@ -1,3 +1,7 @@
+/**
+ * Link para o exercicio: https://www.hackerrank.com/challenges/mini-max-sum/problem?isFullScreen=true
+ */
+
 'use strict';
 
 process.stdin.resume();

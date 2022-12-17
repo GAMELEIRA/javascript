@@ -1,17 +1,13 @@
-function sockMerchant(n, ar = []) {
-    
-    let pares = 0;
+function birthdayCakeCandles(candles = []) {
 
-    for (let i = 0; i < n; i++) {
-        for (let c = 1; c < ar.length; c++) {
-            if (i !== c && ar[i] === ar[c] && ar[i] !== undefined) {
-                pares++;
-                delete ar[i];
-                delete ar[c];
-            }
-        }
-    }
-    console.log(pares);
+    let velas = 0;
+    const valorMaximo = Math.max(...candles);
+
+    candles.forEach((valor) => { 
+        velas = valorMaximo === valor ? ++velas : velas;
+    });
+
+    return velas;
 }
 
-sockMerchant(13, [1, 2, 3, 4, 5, 6, 7, 1, 1, 2, 3, 3, 3]);
+console.log(birthdayCakeCandles([1, 2]));
