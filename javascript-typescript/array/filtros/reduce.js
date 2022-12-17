@@ -30,3 +30,4 @@ const pessoaMaisVelha = pessoas.reduce((valorAcumulado, valorAtual) => {
 });
 
 console.log(pessoaMaisVelha);
+
