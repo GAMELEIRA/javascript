@@ -39,22 +39,6 @@
   <h2>Status do Projeto</h2>
   :construction: Projeto em construção 🏗️
 </section>
-<section id="functionalities">
-  <h2>Funcionalidades e Demonstração da Aplicação</h2>
-  <p>O portifólio é possui as seguintes seções: <p>
-  <ul>
-    <li>
-      <b>Hacker Rank</b>
-    </li>
-    <li>
-      <b>Javascript e Typescript</b>
-     </li>
-    <li>
-      <b>Udemy Web Moderno</b>
-    </li>
-  </ul>
-  <img whidth="500px" src="https://user-images.githubusercontent.com/42386775/207712755-e2bc5e1e-8fe3-4309-b7e6-d7ef2ff75761.gif">
-</section>
 <section id="access-project">
   <h2>Acesso ao Projeto</h2>
   <p>Você pode acessar o <a href="https://gameleira.github.io/portfolio/">portfólio</a> pela web.</p>
