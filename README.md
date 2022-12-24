@@ -44,12 +44,15 @@
   <ul>  
     <li>
         <a href="https://github.com/GAMELEIRA/javascript/tree/main/hacker-rank">Hacker Rank</a>
+        <p>O <a href="https://www.hackerrank.com/">Hacker Rank</a> é uma patlaforma que disponibiliza desafios de algoritimos e matemática para serem desenvolvidos em várias lingaugens de programação.<p>
     </li>
     <li>
         <a href="https://github.com/GAMELEIRA/javascript/tree/main/javascript-typescript">Javacript e Typescript</a>
+        <p>Esta pasta guarda toda a teoria e prática do curso de <a href="https://www.udemy.com/course/curso-de-javascript-moderno-do-basico-ao-avancado/">Web Moderno</a> na Udemy lesionado pelo Leonardo Luiz Otávio <p>
     </li>
     <li>
         <a href="https://github.com/GAMELEIRA/javascript/tree/main/udemy-web-moderno">Udemy Web Moderno</a>
+        <p>Esta pasta guarda toda a teoria e prática do curso de <a href="https://www.udemy.com/course/curso-web/">Web Moderno</a> na Udemy lesionado pelo Leonardo Leitão professor da Cod3r.</p>
     </li>
   <ul>                                    
 </section>
