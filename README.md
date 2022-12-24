@@ -44,7 +44,7 @@
   <ul>  
     <li>
         <a href="https://github.com/GAMELEIRA/javascript/tree/main/hacker-rank">Hacker Rank</a>
-        <p>O <a href="https://www.hackerrank.com/">Hacker Rank</a> é uma patlaforma que disponibiliza desafios de algoritimos e matemática para serem desenvolvidos em várias lingaugens de programação.<p>
+        <p>Esta é uma pasta que guarda todas as resoluções desenvolvidas por mim para resolver os desafios propostos pela plataforma. O <a href="https://www.hackerrank.com/">Hacker Rank</a> é uma patlaforma que disponibiliza desafios de algoritimos e matemática para serem desenvolvidos em várias lingaugens de programação.<p>
     </li>
     <li>
         <a href="https://github.com/GAMELEIRA/javascript/tree/main/javascript-typescript">Javacript e Typescript</a>
