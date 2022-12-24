@@ -23,7 +23,7 @@
       <a href="#status-project">Status do Projeto</a>
     </li>
     <li>
-      <a href="#access-project">Acesso ao Projeto</a>
+      <a href="#mass-organization">Organização das pastas</a>
     </li>
     <li>
       <a href="#project-developers">Desenvolvedores do Projeto</a>
@@ -39,7 +39,7 @@
   <h2>Status do Projeto</h2>
   :construction: Projeto em construção 🏗️
 </section>
-<section id="access-project">
+<section id="mass organization">
   <h2>Organização das pastas</h2>
   <ul>  
     <li>
