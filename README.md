@@ -33,16 +33,25 @@
 <section id="description-project">
   <h2>Descrição do Projeto</h2>
   <p>Este repositório está guardando todos os meus projetos de     estudo sobre a linguagem JavaScript. Cada pasta na raiz do projeto, signica algum estudo em alguma plataforma sobre JS. 
-    Estou fazendo dessa forma pois minha intenção é centralizar todo o meu conhecimento em um só lugar, para que me sirva como gui caso eu tenha alguma dúvida. Dessa forma também é possivel facilitar para que você possa ver o que eu estudei em um único link. </p>
+    Estou fazendo dessa forma pois minha intenção é centralizar todo o meu conhecimento em um só lugar, para que me sirva como guia caso eu tenha alguma dúvida. Dessa forma também é possivel facilitar para que você possa ver o que eu estudei em um único link. </p>
 </section>
 <section id="status-project">
   <h2>Status do Projeto</h2>
   :construction: Projeto em construção 🏗️
 </section>
 <section id="access-project">
-  <h2>Acesso ao Projeto</h2>
-  <p>Você pode acessar o <a href="https://gameleira.github.io/portfolio/">portfólio</a> pela web.</p>
-  <p>Você pode acessar o <a href="https://github.com/GAMELEIRA/portfolio">projeto</a> pelo Git Hub</p>                                                   
+  <h2>Organização das pastas</h2>
+  <ul>  
+    <li>
+        <a href="https://github.com/GAMELEIRA/javascript/tree/main/hacker-rank">Hacker Rank</a>
+    </li>
+    <li>
+        <a href="https://github.com/GAMELEIRA/javascript/tree/main/javascript-typescript">Javacript e Typescript</a>
+    </li>
+    <li>
+        <a href="https://github.com/GAMELEIRA/javascript/tree/main/udemy-web-moderno">Udemy Web Moderno</a>
+    </li>
+  <ul>                                    
 </section>
 <section id="project-developers">
   <h2>Desenvolvedores do Projeto</h2>
