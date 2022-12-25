@@ -48,7 +48,7 @@
     </li>
     <li>
         <a href="https://github.com/GAMELEIRA/javascript/tree/main/javascript-typescript">Javacript e Typescript</a>
-        <p>Esta pasta guarda toda a teoria e prática do curso de <a href="https://www.udemy.com/course/curso-de-javascript-moderno-do-basico-ao-avancado/">Web Moderno</a> na Udemy lesionado pelo Leonardo Luiz Otávio <p>
+        <p>Esta pasta guarda toda a teoria e prática do curso de <a href="https://www.udemy.com/course/curso-de-javascript-moderno-do-basico-ao-avancado/">Web Moderno</a> na Udemy lesionado pelo Leonardo Luiz Otávio. <p>
     </li>
     <li>
         <a href="https://github.com/GAMELEIRA/javascript/tree/main/udemy-web-moderno">Udemy Web Moderno</a>
