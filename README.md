@@ -39,7 +39,7 @@
   <h2>Status do Projeto</h2>
   :construction: Projeto em construção 🏗️
 </section>
-<section id="mass organization">
+<section id="mass-organization">
   <h2>Organização das pastas</h2>
   <ul>  
     <li>
